@@ -2,8 +2,8 @@
 Simple Python Flask Server for two-class human classification.  
 Works on mobile and can easily be hosted with nginx through wsgi.
 
-![](screenshots/user_selection.png)  
-![](screenshots/evaluation.png)
+![](/screenshots/user_selection.png)  
+![](/screenshots/evaluation.png)
 
 ## Installation
 The default expects a sqlite database with a DATA table that contains an ID and a PK and CONTENT as a String.   
